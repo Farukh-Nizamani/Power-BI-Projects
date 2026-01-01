@@ -1,1 +1,11 @@
-# Power-BI-Projects
+# Power-BI-Reports
+Hi, This is the repository for all of my power bi reports
+and this README.md is a detailed documentation of my power bi reports
+
+
+
+
+
+
+
+
