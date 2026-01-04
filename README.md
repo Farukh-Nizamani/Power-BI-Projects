@@ -18,7 +18,7 @@ I explain my Power-BI-Reports in the order:
 -- Purpose of Visuals
 
 -- Visuals I decided to exclude
-
+<br>
 
 
 
