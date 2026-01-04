@@ -168,8 +168,6 @@ CONTACTFIRSTNAME
 
 DEALSIZE
 
-
-
 <br>
 <img width="1348" height="487" alt="image" src="https://github.com/user-attachments/assets/36a3b56d-3753-4555-aa1a-3343cccaf023" />
 
