@@ -15,7 +15,7 @@ I document my Power-BI-Reports in the order:
 
 -- Report Navigation
 
--- Purpose of Visuals
+-- Choice/Purpose of Visuals
 
 -- Visuals I decided to exclude
 
@@ -181,7 +181,9 @@ DEALSIZE
 
 <br>
 <br>
-after i touched it:
+dataset after i cleaned, deduplicated, standardized, normalized and structured it into a Star Schema:
+<br>
+
 
 
 
