@@ -86,6 +86,8 @@ tooltip page for main-page:
 <br>
 tooltip page date related visuals:
 <br>
+<img width="649" height="483" alt="image" src="https://github.com/user-attachments/assets/d919c9b9-1558-4d2f-bb87-6536d0fca203" />
+
 
 
 
