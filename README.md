@@ -18,12 +18,14 @@ I explain my Power-BI-Reports in the order:
 -- Purpose of Visuals
 
 -- Visuals I decided to exclude
+
+<br>
+<br>
 <br>
 
 
-
-**<h1>Sales VS Target Performance Tracker Report<h1>**
-About the report
+**<h1>Sales VS Target Performance Tracker Report</h1>**
+About The Report
 
 
 
