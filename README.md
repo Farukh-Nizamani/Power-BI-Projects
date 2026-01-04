@@ -25,7 +25,18 @@ I explain my Power-BI-Reports in the order:
 
 
 **<h1>Sales VS Target Performance Tracker Report</h1>**
-About The Report
+About The Report:
+
+It consists of 4 pages in total (excluding tool-tip pages) out of which 2 pages are hidden:
+1) Summary
+2) Sales Analysis
+3) Product Performance (hidden)
+4) Regional Performance (hidden)
+
+
+
+an end-user (in the reading mode) will only see 2 pages
+
 
 
 
