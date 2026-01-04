@@ -124,52 +124,63 @@ I used the MySQL DBMS to clean, deduplicate, standardize, normalize and structur
 
 dataset only consisted of a single table with column names before i worked on it:
 
--- ORDERNUMBER
+ORDERNUMBER
 
--- QUANTITYORDERED
+QUANTITYORDERED
 
--- PRICEEACH
+PRICEEACH
 
--- ORDERLINENUMBER
+ORDERLINENUMBER
 
--- SALES
+SALES
 
--- ORDERDATE
+ORDERDATE
 
--- STATUS
+STATUS
 
--- QTR_ID
+QTR_ID
 
--- MONTH_ID
+MONTH_ID
 
--- YEAR_ID
+YEAR_ID
 
--- PRODUCTLINE
+PRODUCTLINE
 
--- MSRP
+MSRP
 
--- PRODUCTCODE
+PRODUCTCODE
 
--- CUSTOMERNAME
+CUSTOMERNAME
 
--- CITY
+CITY
 
--- STATE
+STATE
 
--- POSTALCODE
+POSTALCODE
 
--- COUNTRY
+COUNTRY
 
--- TERRITORY
+TERRITORY
 
--- CONTACTLASTNAME
+CONTACTLASTNAME
 
--- CONTACTFIRSTNAME
+CONTACTFIRSTNAME
 
 DEALSIZE
 
 
+
 <br>
+<img width="1348" height="487" alt="image" src="https://github.com/user-attachments/assets/36a3b56d-3753-4555-aa1a-3343cccaf023" />
+
+<br>
+<img width="1007" height="495" alt="image" src="https://github.com/user-attachments/assets/d4b83a31-d670-4b7e-8990-d469dd71d3b9" />
+
+
+
+
+
+
 <br>
 <br>
 after i touched it:
