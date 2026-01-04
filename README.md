@@ -118,7 +118,7 @@ https://www.kaggle.com/datasets/kyanyoga/sample-sales-data?resource=download
 <br>
 <br>
 
-**The use of SQL:**
+**The use of SQL:**<br>
 I used the MySQL DBMS to clean, deduplicate, standardize, normalize and structure the dataset into a Star Schema with two Fact Tables (Sales and Target table) and 5 denormalized dim tables, having linked them to both the Fact tables using foreign keys. I also used Recursive CTEs to fill in the missing dates in the Date Table, and used CASE statements to change the data of Target Table so its not just a duplicate of Sales Table.
 
 
