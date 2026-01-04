@@ -37,6 +37,7 @@ It consists of 4 pages in total (excluding tool-tip pages) out of which 2 pages 
 
 <br>
 Summary Page:
+<br>
 
 <img width="872" height="487" alt="image" src="https://github.com/user-attachments/assets/f056653b-816c-4bef-a6db-d7d96edcbbe8" />
 
@@ -45,6 +46,7 @@ Summary Page:
 
 <br>
 Sales Analysis Page:
+<br>
 
 <img width="867" height="485" alt="image" src="https://github.com/user-attachments/assets/cf2fffe3-c905-4913-8f5a-98564084f091" />
 
