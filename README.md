@@ -29,7 +29,7 @@ I document my Power-BI-Reports in the order:
 
 
 **<h1>Sales VS Target Performance Report</h1>**
-**About The Report**:
+**About The Report:**
 
 It consists of 4 pages in total (excluding tool-tip pages) out of which 2 pages will only be shown to the end-user when they drill-through the charts on the first and second page:
 1) Summary
@@ -99,16 +99,19 @@ Tooltip page for drill-through (hidden) pages:
 <img width="648" height="483" alt="image" src="https://github.com/user-attachments/assets/e3f101e9-3c86-4d13-8a16-332d65dcf56a" />
 <br>
 <br>
-Tooltips is the pop-up info which appears when you hover over a visual, so tooltip pages are the pages of a report that act as tooltips.
+Tooltips is the pop-up info which appears when you hover over a visual, and tooltip pages are the pages of a report that act as tooltips.
 
 
 <br>
 <br>
 <br>
-**Data Source**:
 
 
+**Data Source:**
 
+I downloaded the Sales Dataset from Kaggle and here's the link of it:
+
+https://www.kaggle.com/datasets/kyanyoga/sample-sales-data?resource=download
 
 
 
