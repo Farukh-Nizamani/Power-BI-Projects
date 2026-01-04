@@ -19,6 +19,8 @@ I explain my Power-BI-Reports in the order:
 
 -- Visuals I decided to exclude
 
+-- Limitations
+
 <br>
 <br>
 <br>
