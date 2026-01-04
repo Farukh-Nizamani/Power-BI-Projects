@@ -35,6 +35,7 @@ It consists of 4 pages in total (excluding tool-tip pages) out of which 2 pages 
 
 
 
+
 <br>
 Summary Page:
 <br>
@@ -65,3 +66,9 @@ Product Performance Page (hidden):
 Regional Performance Page (hidden):
 
 <img width="870" height="491" alt="image" src="https://github.com/user-attachments/assets/c685a56f-32e7-4b85-83c2-23efe2763ffe" />
+
+
+
+
+
+
