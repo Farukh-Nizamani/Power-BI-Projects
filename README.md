@@ -4,6 +4,7 @@ and this README.md is a detailed documentation of them
 
 
 I explain my Power-BI-Reports in the order:
+
 -- About the Report
 
 -- Data Source 
@@ -17,6 +18,15 @@ I explain my Power-BI-Reports in the order:
 -- Purpose of Visuals
 
 -- Visuals I decided to exclude
+
+
+
+
+
+
+
+
+
 
 
 **About The Report**
