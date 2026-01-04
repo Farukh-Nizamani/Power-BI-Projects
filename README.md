@@ -15,6 +15,14 @@ I explain my Power-BI-Reports in the order:
 
 
 
+
+
+
+
+
+
+
+
 Sales VS Target Performance Tracker Report
 
 
