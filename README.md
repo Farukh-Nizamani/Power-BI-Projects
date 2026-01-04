@@ -22,12 +22,6 @@ I explain my Power-BI-Reports in the order:
 
 
 
-
-
-<br>
-<br>
-
-
 **<h1>Sales VS Target Performance Tracker Report<h1>**
 About the report
 
