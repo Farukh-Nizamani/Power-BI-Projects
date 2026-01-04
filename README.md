@@ -122,6 +122,57 @@ https://www.kaggle.com/datasets/kyanyoga/sample-sales-data?resource=download
 I used the MySQL DBMS to clean, deduplicate, standardize, normalize and structure the dataset into a Star Schema with two Fact Tables (Sales and Target table) and 5 denormalized dim tables, having linked them to both the Fact tables using foreign keys. I also used Recursive CTEs to fill in the missing dates in the Date Table, and used CASE statements to change the data of Target Table so its not just a duplicate of Sales Table.
 
 
+dataset only consisted of a single table with column names before i touched it:
+
+-- ORDERNUMBER
+
+-- QUANTITYORDERED
+
+-- PRICEEACH
+
+-- ORDERLINENUMBER
+
+-- SALES
+
+-- ORDERDATE
+
+-- STATUS
+
+-- QTR_ID
+
+-- MONTH_ID
+
+-- YEAR_ID
+
+-- PRODUCTLINE
+
+-- MSRP
+
+-- PRODUCTCODE
+
+-- CUSTOMERNAME
+
+-- CITY
+
+-- STATE
+
+-- POSTALCODE
+
+-- COUNTRY
+
+-- TERRITORY
+
+-- CONTACTLASTNAME
+
+-- CONTACTFIRSTNAME
+
+-- DEALSIZE
+
+
+
+after i touched it:
+
+
 
 
 
