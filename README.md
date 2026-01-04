@@ -4,13 +4,23 @@ and this README.md is a detailed documentation of them
 
 
 I explain my Power-BI-Reports in the order:
--- About the Report 
+-- About the Report
+
 -- Data Source 
+
 -- The use of SQL
+
 -- List of Power BI features Used
+
 -- Report Navigation
+
 -- Purpose of Visuals
+
 -- Visuals I decided to exclude
+
+
+**About The Report**
+
 
 
 
