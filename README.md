@@ -304,7 +304,7 @@ Model view of star schema of my tables in power bi
 
 
 
-**Report Navigation:**
+**Report Navigation:**<br>
 NOTE: Gray color lines/bars/columns shows the target while blue shows the sales
 
 
@@ -321,8 +321,6 @@ Here's a little demonstration, let's say i want to know more detail about the co
 the destination page (we drill-through a country so its regional performance page) is now filtered by the country Finland
 
 <br>
-
-
 
 
 On the matrix visuals, the intensity of the blue shading represents revenue, darker blue indicates higher earnings. Note that a darker shade does not necessarily mean a target was met. performance against targets is specifically indicated by the Green-Upward and Red-Downward arrows. Green-Upward arrow means we have met the target and Red-Downward arrow means we have not
