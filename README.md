@@ -305,7 +305,7 @@ Model view of star schema of my tables in power bi
 
 
 **Report Navigation:**<br>
-NOTE: Gray color lines/bars/columns shows the target while blue shows the sales
+You can drill-down on almost all the visuals
 
 
 <br>
