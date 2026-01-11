@@ -305,13 +305,10 @@ Model view of star schema of my tables in power bi
 
 
 **Report Navigation:**
-
 NOTE: Gray color lines/bars/columns shows the target while blue shows the sales
 
 
 <br>
-
-
 To access the Product or Regional Performance pages, right-click a specific Product or Country on the Summary or Sales Analysis, hover over the drill-through option and then select Regional Performance/Product Performance. This automatically filters the destination page by your selected product or region
 
 
