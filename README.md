@@ -271,8 +271,7 @@ Model view of star schema of my tables in power bi
 <br>
 
 
--- Navigation: Drill-Throughs and Drill-Downs for granular Data Exploration, and a navigation bar to move between pages.
-
+-- Navigation: Drill-Throughs and Drill-Downs for granular Data Exploration, and a navigation bar to move between pages
 
 <br>
 -- Guidance: Custom Tooltip pages and Help-Tooltips for on-hover insights
@@ -281,7 +280,9 @@ Model view of star schema of my tables in power bi
 -- Interactivity: Slicers and Field Parameters for dynamic axis/dimension switching 
 
 <br>
--- Visual Polish: Conditional Formatting, Dynamic Titles, Dynamic Tooltip pages, and Dynamic Cards that change based on user selection so that users always see the appropriate data
+-- Visual Polish: Conditional Formatting, Dynamic Titles, Dynamic Tooltip pages,
+
+and Dynamic Cards that change based on user selection so that users always see the appropriate data
 
 <br>
 Scenario Analysis: "What-If" parameters to simulate different business outcomes
