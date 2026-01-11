@@ -184,7 +184,11 @@ DEALSIZE
 dataset after i cleaned, deduplicated, standardized, normalized and structured it into a Star Schema:
 <br>
 
+-- <H3>Tables and their columns</H3> --
 
+-- Date Table --
+
+-- 
 
 
 
