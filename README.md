@@ -192,6 +192,7 @@ CUSTOMER_TABLE
 <img width="299" height="311" alt="image" src="https://github.com/user-attachments/assets/e037e8e6-251b-44b7-8251-e8643197c461" />
 <br>
 
+<br>
 
 <br>
 DATE_TABLE
@@ -199,6 +200,41 @@ DATE_TABLE
 <img width="257" height="200" alt="image" src="https://github.com/user-attachments/assets/8ec48da3-caf7-43b0-badc-271a4c1bbd08" /><br>
 <img width="507" height="332" alt="image" src="https://github.com/user-attachments/assets/fd2c8bdf-0395-4dd2-b17d-e3b38495f1fc" />
 <br>
+
+
+<br>
+
+
+<br>
+LOCATION_TABLE
+<br>
+<img width="256" height="289" alt="image" src="https://github.com/user-attachments/assets/d0a732bf-5619-4ca6-9c4a-f6ca97a9e0ae" /><br>
+<img width="344" height="313" alt="image" src="https://github.com/user-attachments/assets/127a00be-6f46-4651-a0d6-f491de7a7e05" />
+<br>
+
+<br>
+
+<br>
+ORDER_TABLE
+<br>
+<img width="266" height="227" alt="image" src="https://github.com/user-attachments/assets/af6e9674-35bf-4f4a-bd68-2765b63bea07" /><br>
+<img width="600" height="328" alt="image" src="https://github.com/user-attachments/assets/0056fb31-e5c1-4ef3-9836-894abbc931ae" />
+<br>
+
+
+<br>
+
+
+<br>
+PRODUCT_TABLE
+<br>
+<img width="279" height="209" alt="image" src="https://github.com/user-attachments/assets/e141426c-a421-4b80-83a9-ea7e6039f76c" /><br>
+<img width="241" height="143" alt="image" src="https://github.com/user-attachments/assets/a6505f93-1913-4ca4-a152-c0ad6037d58a" />
+<br>
+
+
+
+
 
 
 
