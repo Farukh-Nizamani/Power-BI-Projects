@@ -279,8 +279,7 @@ Model view of star schema of my tables in power bi
 -- Interactivity: Slicers and Field Parameters for dynamic axis/dimension switching 
 
 <br>
--- Visual Polish: Conditional Formatting, Dynamic Titles, Dynamic Tooltip pages,
-and Dynamic Cards that change based on user selection so that users always see the appropriate data
+-- Visual Polish: Conditional Formatting, Dynamic Titles, Dynamic Tooltip pages, and Dynamic Cards that change based on user selection so that users always see the appropriate data
 
 <br>
 -- Scenario Analysis: "What-If" parameters to simulate different business outcomes
@@ -291,8 +290,6 @@ and Dynamic Cards that change based on user selection so that users always see t
 <br>
 -- Customization: Integration of Bullect Chart Visuals to meet specific reporting need
 
-<br>
--- DAX (data analysis expression) for complex business logic
 
 
 
