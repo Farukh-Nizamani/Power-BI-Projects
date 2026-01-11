@@ -185,11 +185,9 @@ dataset after i cleaned, deduplicated, standardized, normalized and structured i
 <br>
 
 
-Customer_Table
+CUSTOMER_TABLE
 <br>
 <img width="275" height="129" alt="image" src="https://github.com/user-attachments/assets/9545496e-1597-4e98-9579-b4126178a2e7" />
-<br>
-
 <img width="299" height="311" alt="image" src="https://github.com/user-attachments/assets/e037e8e6-251b-44b7-8251-e8643197c461" />
 <br>
 
@@ -197,8 +195,6 @@ Customer_Table
 DATE_TABLE
 <br>
 <img width="257" height="200" alt="image" src="https://github.com/user-attachments/assets/8ec48da3-caf7-43b0-badc-271a4c1bbd08" />
-<br>
-
 <img width="507" height="332" alt="image" src="https://github.com/user-attachments/assets/fd2c8bdf-0395-4dd2-b17d-e3b38495f1fc" />
 <br>
 
