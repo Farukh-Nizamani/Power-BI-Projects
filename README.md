@@ -184,6 +184,29 @@ DEALSIZE
 dataset after i cleaned, deduplicated, standardized, normalized and structured it into a Star Schema:
 <br>
 
+<br>
+SALES_TABLE
+<br>
+<img width="255" height="213" alt="image" src="https://github.com/user-attachments/assets/e3deea59-415c-4cfa-b20b-8a475661bce5" /><br>
+<img width="859" height="310" alt="image" src="https://github.com/user-attachments/assets/e86f3eb3-2ce1-4e65-b6fc-277aef2b30d5" />
+<br>
+
+
+<br>
+
+
+<br>
+TARGET_TABLE
+<br>
+<img width="278" height="220" alt="image" src="https://github.com/user-attachments/assets/8b6540ca-75ea-44cb-9fb2-fd5c29c2b044" /><br>
+<img width="816" height="331" alt="image" src="https://github.com/user-attachments/assets/4a01738c-71a5-416f-b390-d0ca9c9914f9" />
+<br>
+
+
+
+<br>
+
+
 
 <br>
 CUSTOMER_TABLE
