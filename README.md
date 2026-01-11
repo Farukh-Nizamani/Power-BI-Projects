@@ -31,17 +31,16 @@ I document my Power-BI-Reports in the order:
 **<h1>Sales VS Target Performance Report</h1>**
 **About The Report:**
 
+
+SIDE-NOTE: if want to know how to navigate this power bi report, scroll down to the **Report Navigation** paragraph
+
+
 It consists of 4 pages in total (excluding tool-tip pages) out of which 2 pages will only be shown to the end-user when they drill-through the charts on the first and second page:
 1) Summary
 2) Sales Analysis
 3) Product Performance (hidden)
 4) Regional Performance (hidden)
 <br>
-
-NOTE: Gray color lines/bars/columns shows the target while blue shows the sales
-
-
-SIDE-NOTE: if want to know how to navigate this power bi report, scroll down to the **Report Navigation** paragraph
 
 
 
@@ -306,7 +305,8 @@ Model view of star schema of my tables in power bi
 
 
 **Report Navigation:**
-On the matrix visuals, the intensity of the blue shading represents revenue, darker blue indicates higher earnings. Note that a darker shade does not necessarily mean a target was met. performance against targets is specifically indicated by the Green-Upward and Red-Downward arrows. Green-Upward arrow means we have met the target and Red-Downward arrow means we have not
+
+NOTE: Gray color lines/bars/columns shows the target while blue shows the sales
 
 
 <br>
@@ -323,7 +323,12 @@ Here's a little demonstration, let's say i want to know more detail about the co
 <br>
 the destination page (we drill-through a country so its regional performance page) is now filtered by the country Finland
 
+<br>
 
+
+
+
+On the matrix visuals, the intensity of the blue shading represents revenue, darker blue indicates higher earnings. Note that a darker shade does not necessarily mean a target was met. performance against targets is specifically indicated by the Green-Upward and Red-Downward arrows. Green-Upward arrow means we have met the target and Red-Downward arrow means we have not
 
 
 
