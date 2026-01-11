@@ -255,7 +255,11 @@ PRODUCT_TABLE
 <img width="241" height="143" alt="image" src="https://github.com/user-attachments/assets/a6505f93-1913-4ca4-a152-c0ad6037d58a" />
 <br>
 
+<br>
 
+Star Schema Structure in power bi
+<img width="977" height="504" alt="image" src="https://github.com/user-attachments/assets/ce2a9af4-db34-4dbd-87ac-a8e0d56880e5" />
+<br>
 
 
 
