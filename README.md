@@ -313,7 +313,8 @@ To access the Product or Regional Performance pages, right-click a specific Prod
 
 
 <br>
-Here's a little demonstration, let's say i want to know more detail about the country 'finland', i will right-click on it and select drill-through option<br>
+Here's a little demonstration, let's say i want to know more detail about the country 'finland', i will right-click on it and select drill-through option
+<br>
 <img width="959" height="538" alt="image" src="https://github.com/user-attachments/assets/f0701a3b-8d0c-4797-8747-c96c52221394" />
 <br>
 <img width="962" height="544" alt="image" src="https://github.com/user-attachments/assets/331e9453-69c2-457a-8d06-43f1950c22a1" />
@@ -321,7 +322,8 @@ Here's a little demonstration, let's say i want to know more detail about the co
 the destination page (we drill-through a country so its regional performance page) is now filtered by the country Finland
 
 <br>
-
+<br>
+<br>
 
 On the matrix visuals, the intensity of the blue shading represents revenue, darker blue indicates higher earnings. Note that a darker shade does not necessarily mean a target was met. performance against targets is specifically indicated by the Green-Upward and Red-Downward arrows. Green-Upward arrow means we have met the target and Red-Downward arrow means we have not
 
