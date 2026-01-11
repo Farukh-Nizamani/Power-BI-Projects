@@ -257,7 +257,7 @@ PRODUCT_TABLE
 
 <br>
 
-Star Schema Structure in power bi
+Model view of star schema in power bi
 <img width="977" height="504" alt="image" src="https://github.com/user-attachments/assets/ce2a9af4-db34-4dbd-87ac-a8e0d56880e5" />
 <br>
 
