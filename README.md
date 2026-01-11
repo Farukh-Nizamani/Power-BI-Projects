@@ -11,7 +11,7 @@ I document my Power-BI-Reports in the order:
 
 -- The use of SQL
 
--- List of Power BI features Used
+-- Power BI features Used
 
 -- Report Navigation
 
@@ -267,9 +267,8 @@ Model view of star schema of my tables in power bi
 <br>
 
 
-**List of Power BI features Used:**<br>
-
-
+**Power BI Features and Measures Used:**<br>
+Drill-Throughs, Drill-Downs, Custome Visuals, Toolip pages, Help-Tooltips, Field Paramters and Slicers, What-If paramter, Dynamic Titles, Dynamic Cards, Conditional Formatting, Implicit & Explicit Hierarchies, DAX measures
 
 
 
