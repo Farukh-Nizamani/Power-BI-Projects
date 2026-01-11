@@ -270,7 +270,6 @@ Model view of star schema of my tables in power bi
 **Power BI Features and Measures Used:**<br>
 <br>
 
-
 -- Navigation: Drill-Throughs and Drill-Downs for granular Data Exploration, and a navigation bar to move between pages
 
 <br>
@@ -281,11 +280,10 @@ Model view of star schema of my tables in power bi
 
 <br>
 -- Visual Polish: Conditional Formatting, Dynamic Titles, Dynamic Tooltip pages,
-
 and Dynamic Cards that change based on user selection so that users always see the appropriate data
 
 <br>
-Scenario Analysis: "What-If" parameters to simulate different business outcomes
+-- Scenario Analysis: "What-If" parameters to simulate different business outcomes
 
 <br>
 -- Data Structure: Utilization of both Implicit and Explicit Hierarchies to support drill-downs
