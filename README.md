@@ -186,8 +186,6 @@ dataset after i cleaned, deduplicated, standardized, normalized and structured i
 
 
 -- Customer_Table --
-
-
 <br>
 <img width="275" height="129" alt="image" src="https://github.com/user-attachments/assets/9545496e-1597-4e98-9579-b4126178a2e7" />
 <br>
@@ -198,7 +196,6 @@ dataset after i cleaned, deduplicated, standardized, normalized and structured i
 
 
 -- DATE_TABLE --
-
 <br>
 <img width="257" height="200" alt="image" src="https://github.com/user-attachments/assets/8ec48da3-caf7-43b0-badc-271a4c1bbd08" />
 <br>
