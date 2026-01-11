@@ -267,9 +267,8 @@ Model view of star schema of my tables in power bi
 <br>
 
 
-**Power BI Features and Measures Used:**<br>
+**Power BI Features and Measures Used:**
 <br>
-
 -- Navigation: Drill-Throughs and Drill-Downs for granular Data Exploration, and a navigation bar to move between pages
 
 <br>
