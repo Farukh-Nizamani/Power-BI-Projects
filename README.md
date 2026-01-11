@@ -331,6 +331,32 @@ On the matrix visuals, the intensity of the blue shading represents revenue, dar
 
 
 
+<br>
+<br>
+<br>
+**Choice/Purpose of Visuals:**
+
+
+
+
+<br>
+<br>
+<br>
+**Visuals I decided to exclude:**
+
+
+
+
+<br>
+<br>
+<br>
+**Limitations:**
+
+
+
+
+
+
 
 
 
