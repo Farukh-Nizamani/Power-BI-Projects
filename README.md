@@ -296,13 +296,11 @@ Model view of star schema of my tables in power bi
 
 <br>
 **Report Navitation:**<br>
-To access the Product or Regional Performance pages, right-click a specific item on the Summary or Sales Analysis pages and select the drill-through option. This automatically filters the destination page by your selected product or region
+To access the Product or Regional Performance pages, right-click a specific Product or Country on the Summary or Sales Analysis, hover over the drill-through option and then select Regional Performance/Product Performance. This automatically filters the destination page by your selected product or region
 
 
 <br>
-Here's a little demonstration, let's say i want to know more detail about the country 'finland', i will right-click on it and select drill-through option
-
-
+Here's a little demonstration, let's say i want to know more detail about the country 'finland', i will right-click on it and select drill-through option<br>
 <img width="959" height="538" alt="image" src="https://github.com/user-attachments/assets/f0701a3b-8d0c-4797-8747-c96c52221394" />
 <br>
 <img width="962" height="544" alt="image" src="https://github.com/user-attachments/assets/331e9453-69c2-457a-8d06-43f1950c22a1" />
